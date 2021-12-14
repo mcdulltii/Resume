@@ -1,0 +1,190 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Aaron Ti</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<div id="resume">
+<h1>Aaron Ti</h1>
+<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#99;&#100;&#117;&#108;&#108;&#116;&#105;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#99;&#100;&#117;&#108;&#108;&#116;&#105;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li><a href="https://mcdulltii.github.io">Portfolio</a></li>
+<li><a href="https://github.com/mcdulltii">Github</a></li>
+<li>Singapore</li>
+</ul>
+<p>Having a curious mindset towards computer science, I always seek for new directions to gain
+more knowledge. From binary exploits to web development, computer renders to assembly,
+these are some of the fields within computer science that I have worked on. Being passionate
+in developing my skills and knowledge in computer science, I actively take up a myriad of
+opportunities to learn as much as I can.</p>
+<h2>Skills</h2>
+<ul>
+<li>Programming</li>
+<li>Malware Analysis</li>
+<li>Full Stack Development</li>
+<li>3D Design &amp; Rendering</li>
+</ul>
+<h2>Experience</h2>
+<h3><span>Coding</span></h3>
+<ul>
+<li>Python, C, C#, C++, Nim, Rust, Golang, Javascript, Java, Assembly</li>
+</ul>
+<h3><span>Technologies/Environment</span></h3>
+<ul>
+<li>Windows, Linux, OpenGL, Web frameworks, Docker, Cinema4D, Blender, Unity, UnrealEngine</li>
+</ul>
+<h2>Employment History</h2>
+<h3><span>Intern at Institute of High Performance Computing (IHPC) A*STAR</span> <span>May 2017 &ndash; Jan 2018</span></h3>
+<ul>
+<li>Using high performance simulation software to understand the behavior of light and electromagnetic waves in both dielectric materials as well as metals.</li>
+<li>Coordinated effectively with a team of 4 members possessing skills in high performance computing.</li>
+</ul>
+<h3><span>Software Developer at Helloholo</span> <span>Nov 2020 &ndash; Jan 2021</span></h3>
+<ul>
+<li>Developed and implemented interactive AV design, and integrated VR technologies with corporate visions.</li>
+<li>Experimented with new technologies (Virtual Reality, Augmented Reality and Mixed Reality), and assisted in developing software compatible to Extended Reality devices.</li>
+<li>Introduced Oculus development for simulation and AR technology.</li>
+</ul>
+<h3><span>Threat and Incident Specialist at MSD</span> <span>Apr 2020 &ndash; Present</span></h3>
+<ul>
+<li>Monitored computer virus reports to determine when to update virus protection systems.</li>
+<li>Reviewed violations of computer security procedures and developed mitigation plans.</li>
+<li>Performed risk analyses to identify appropriate security countermeasures.</li>
+<li>Delved into malware analysis, researched and developed computer forensic tools.</li>
+<li>Analyzed malicious obfuscation methods, researched and developed several malicious samples.</li>
+</ul>
+<h2>Projects</h2>
+<h3><span>obfDetect</span> <span>Aug 2021 &ndash; Oct 2021</span></h3>
+<p>Automatically detects obfuscated code and other state machines in binary samples</p>
+<ul>
+<li>IDA Scripting to perform heuristic calculations on function Abstract Syntax Trees (AST).</li>
+<li>Detects function anomalies and obfuscated assembly code based on heuristic complexities.</li>
+</ul>
+<h2>Education</h2>
+<h3><span>Anglo-Chinese Junior College</span> <span>2017 &ndash; 2018</span></h3>
+<ul>
+<li>GCE A Levels (Further Mathematics, H2 Mathematics, H2 Physics).</li>
+<li>Expressed my passion in computer science by developing real-time computer vision models in my school&rsquo;s computing CCA.</li>
+<li>Created 3D models and textures, computer renders and shaders in several modeling/texturing applications.</li>
+</ul>
+<h3><span>Singapore Institute of Technology</span> <span>2019 &ndash; Present</span></h3>
+<ul>
+<li>Undergraduate in Information Security.</li>
+<li>Building onto my computing knowledge in the varying fields of computer science, such as Information Security and Interactive Simulation.</li>
+<li>Delved into the niche topics within computer science as part of Capture-The-Flag (CTF) teams both locally and overseas. Some of the niche topics that I have explored are the makings of malware and reverse engineering,</li>
+</ul></div>
+</body>
+</html>

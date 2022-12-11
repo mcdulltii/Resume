@@ -26,6 +26,11 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Employment History
 
+### <span>DevSecOps Intern at GuardRails</span> <span>Oct 2022 - Dec 2022</span>
+
+ - Used Semgrep to quickly find and prevent security issues in various technologies.
+ - Integrated Semgrep into the organization's CI/CD pipeline, helping to enforce security standards and protect against OWASP Top 10 vulnerabilities.
+
 ### <span>Threat and Incident Specialist at MINDEF - Military Security Department (MSD)</span> <span>Apr 2020 -- Apr 2022</span>
 
  - Reviewed violations of computer security procedures and developed mitigation plans.

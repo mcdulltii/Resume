@@ -18,11 +18,11 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ### <span>Coding</span>
 
- - Python, C, C#, C++, Nim, Rust, Golang, Javascript, Java, Assembly
+ - Python, C, C#, C++, Rust, Golang, Javascript, Java, Assembly, Nim
 
 ### <span>Technologies/Environment</span>
 
- - Windows, Linux, OpenGL, Web frameworks, Docker, Cinema4D, Blender, Unity, UnrealEngine
+ - Windows, Linux, OpenGL, Web frameworks, Docker, Kubernetes, Cinema4D, Blender, Unity, UnrealEngine
 
 ## Employment History
 
@@ -50,6 +50,30 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Projects
 
+### <span>Mobile Doctor</span> <span>Jan 2024 -- Present</span>
+
+ - Uses Huggingface transformers to train and infer medical-related questions and answers
+ - Mobile virtual reality frontend to interact with users on their medical-related prompts
+
+### <span>Sketch AI</span> <span>Oct 2023 -- Present</span>
+
+ - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams
+ - Optical Character Recognition to transcribe text from diagram images
+ - Visualize detected shapes and texts digitally within a DrawIO frontend
+
+### <span>Badminton AI</span> <span>Jun 2023 -- Present</span>
+
+ - Stereo calibration of cameras to take photos of incoming shuttlecocks
+ - Object detection model to retrieve position from stereo images
+ - Uses (Robot Operating System) ROS 2 to communicate with badminton robot, to predict and move to the shuttlecock's landing position to receive it
+
+### <span>FDownl</span> <span>Jul 2021 -- Jun 2022</span>
+
+<https://github.com/FDownl/FDownl>
+
+ - ASP.NET file sharing website
+ - Uses cloud technology (i.e. Azure and AWS) for load balancing and containerization
+
 ### <span>obfDetect</span> <span>Aug 2021 -- Oct 2021</span>
 
 <https://github.com/mcdulltii/obfDetect>
@@ -59,6 +83,15 @@ Having a curious mindset towards computer science, I always seek for new directi
  - Detects function anomalies and obfuscated assembly code based on heuristic complexities.
 
 ## Courses / Certifications
+
+### <span>AWS Academy Cloud Foundations</span>
+
+ - Gives an overall understanding of cloud computing concepts, independent of specific technical roles
+ - Provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support
+
+### <span>AWS Academy Cloud Architecting</span>
+
+ - Covers the fundamentals of building IT infrastructure on AWS and helps students gain the skills they need to pursue the AWS Certified Solutions Architect – Associate certification
 
 ### <span>Advanced Malware Analysis Techniques by Kaspersky</span>
 

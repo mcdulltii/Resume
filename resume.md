@@ -55,7 +55,7 @@ Having a curious mindset towards computer science, I always seek for new directi
  - Uses Huggingface transformers to train and infer medical-related questions and answers
  - Mobile virtual reality frontend to interact with users on their medical-related prompts
 
-### <span>Sketch AI</span> <span>Oct 2023 -- Present</span>
+### <span>Sketch AI</span> <span>Sep 2023 -- Present</span>
 
  - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams
  - Optical Character Recognition to transcribe text from diagram images

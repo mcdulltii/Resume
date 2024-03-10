@@ -67,6 +67,12 @@ Having a curious mindset towards computer science, I always seek for new directi
  - Object detection model to retrieve position from stereo images
  - Uses (Robot Operating System) ROS 2 to communicate with badminton robot, to predict and move to the shuttlecock's landing position to receive it
 
+### <span>SourceSync</span> <span>Aug 2022 -- Apr 2023</span>
+
+ - Syncing of source codes with Ghidra decompiled pseudocodes
+ - Compares two AST trees using depth-first preorder walk and fuzzy hashing
+ - Match simplified AST tree nodes and get function line matchings within each function bound
+
 ### <span>FDownl</span> <span>Jul 2021 -- Jun 2022</span>
 
 <https://github.com/FDownl/FDownl>

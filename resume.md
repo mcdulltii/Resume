@@ -50,22 +50,22 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Projects
 
-### <span>Mobile Doctor</span> <span>Jan 2024 -- Present</span>
-
- - Uses Huggingface transformers to train and infer medical-related questions and answers
- - Mobile virtual reality frontend to interact with users on their medical-related prompts
-
-### <span>Sketch AI</span> <span>Sep 2023 -- Present</span>
-
- - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams
- - Optical Character Recognition to transcribe text from diagram images
- - Visualize detected shapes and texts digitally within a DrawIO frontend
-
 ### <span>Badminton AI</span> <span>Jun 2023 -- Present</span>
 
  - Stereo calibration of cameras to take photos of incoming shuttlecocks
  - Object detection model to retrieve position from stereo images
  - Uses (Robot Operating System) ROS 2 to communicate with badminton robot, to predict and move to the shuttlecock's landing position to receive it
+
+### <span>Mobile Doctor</span> <span>Jan 2024 -- Apr 2024</span>
+
+ - Uses Huggingface transformers to train and infer medical-related questions and answers
+ - Mobile virtual reality frontend to interact with users on their medical-related prompts
+
+### <span>Sketch AI</span> <span>Sep 2023 -- Apr 2024</span>
+
+ - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams
+ - Optical Character Recognition to transcribe text from diagram images
+ - Visualize detected shapes and texts digitally within a DrawIO frontend
 
 ### <span>SourceSync</span> <span>Aug 2022 -- Apr 2023</span>
 

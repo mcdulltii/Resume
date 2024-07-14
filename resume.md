@@ -9,10 +9,12 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Skills
 
- - Programming (High & low level)
- - Malware Analysis & Threat Hunting
- - Full Stack Development
+ - High & Low Level Programming
+ - Malware Analysis & Reverse Engineering
+ - Full Stack & Mobile App Development
+ - DevOps
  - 3D Design & Rendering
+ - VR & AR App Development
 
 ## Experience
 
@@ -22,9 +24,15 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ### <span>Technologies/Environment</span>
 
- - Windows, Linux, OpenGL, Web frameworks, Docker, Kubernetes, Cinema4D, Blender, Unity, UnrealEngine
+ - Windows, Linux, OpenGL, Web frameworks, Docker, Kubernetes, OpenCV, Huggingface, Cinema4D, Blender, Unity, UnrealEngine
 
 ## Employment History
+
+### <span>Cyber Security Engineer Intern at watchTowr</span> <span>Apr 2024 - July 2024</span>
+
+ - Adapted T-Pot architecture with modular vulnerable honeypot containers with ELK packetbeat integration and dashboard alerts
+ - Assisted in automating continuous assurance and adversary sight through code runners
+ - Finetuned the GPT3.5 model and prompt engineered to automate manual laborous tasks
 
 ### <span>DevSecOps Intern at GuardRails</span> <span>Oct 2022 - Dec 2022</span>
 
@@ -50,7 +58,7 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Projects
 
-### <span>Badminton AI</span> <span>Jun 2023 -- Present</span>
+### <span>Badminton AI</span> <span>Jun 2023 -- Apr 2024</span>
 
  - Stereo calibration of cameras to take photos of incoming shuttlecocks
  - Object detection model to retrieve position from stereo images

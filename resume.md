@@ -28,13 +28,17 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Employment History
 
-### <span>Cyber Security Engineer Intern at watchTowr</span> <span>Apr 2024 - July 2024</span>
+### <span>Cyber Security Engineer Intern at Centre for Strategic Infocomm Technologies (CSIT)</span> <span>Sep 2024 -- Present</span>
 
- - Adapted T-Pot architecture with modular vulnerable honeypot containers with ELK packetbeat integration and dashboard alerts
- - Assisted in automating continuous assurance and adversary sight through code runners
- - Finetuned the GPT3.5 model and prompt engineered to automate manual laborous tasks
+ - Creating custom Linux user mode and kernel mode antivirus tools
 
-### <span>DevSecOps Intern at GuardRails</span> <span>Oct 2022 - Dec 2022</span>
+### <span>Cyber Security Engineer Intern at watchTowr</span> <span>Apr 2024 -- Jul 2024</span>
+
+ - Adapted T-Pot architecture with modular vulnerable honeypot containers with ELK packetbeat integration and dashboard alerts.
+ - Assisted in automating continuous assurance and adversary sight through code runners.
+ - Finetuned the GPT3.5 model and prompt engineered to automate manual laborous tasks.
+
+### <span>DevSecOps Intern at GuardRails</span> <span>Oct 2022 -- Dec 2022</span>
 
  - Used Semgrep to quickly find and prevent security issues in various technologies.
  - Integrated Semgrep into the organization's CI/CD pipeline, helping to enforce security standards and protect against OWASP Top 10 vulnerabilities.
@@ -58,41 +62,29 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ## Projects
 
-### <span>Badminton AI</span> <span>Jun 2023 -- Apr 2024</span>
+### <span>Badminton AI Robot</span> <span>Jun 2023 -- Apr 2024</span>
 
- - Stereo calibration of cameras to take photos of incoming shuttlecocks
- - Object detection model to retrieve position from stereo images
- - Uses (Robot Operating System) ROS 2 to communicate with badminton robot, to predict and move to the shuttlecock's landing position to receive it
+ - Stereo calibration of cameras to take photos of incoming shuttlecocks.
+ - Object detection model to retrieve position from stereo images.
+ - Uses (Robot Operating System) ROS 2 to communicate with badminton robot, to predict and move to the shuttlecock's landing position to receive it.
 
-### <span>Mobile Doctor</span> <span>Jan 2024 -- Apr 2024</span>
+### <span>Diagram Sketch AI</span> <span>Sep 2023 -- Apr 2024</span>
 
- - Uses Huggingface transformers to train and infer medical-related questions and answers
- - Mobile virtual reality frontend to interact with users on their medical-related prompts
-
-### <span>Sketch AI</span> <span>Sep 2023 -- Apr 2024</span>
-
- - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams
- - Optical Character Recognition to transcribe text from diagram images
- - Visualize detected shapes and texts digitally within a DrawIO frontend
+ - Uses YOLOv8 object detection model to train and detect shapes and texts within handwritten diagrams.
+ - Optical Character Recognition to transcribe text from diagram images.
+ - Visualize detected shapes and texts digitally within a DrawIO frontend.
 
 ### <span>SourceSync</span> <span>Aug 2022 -- Apr 2023</span>
 
- - Syncing of source codes with Ghidra decompiled pseudocodes
- - Compares two AST trees using depth-first preorder walk and fuzzy hashing
- - Match simplified AST tree nodes and get function line matchings within each function bound
-
-### <span>FDownl</span> <span>Jul 2021 -- Jun 2022</span>
-
-<https://github.com/FDownl/FDownl>
-
- - ASP.NET file sharing website
- - Uses cloud technology (i.e. Azure and AWS) for load balancing and containerization
+ - Syncing of source codes with Ghidra decompiled pseudocodes.
+ - Compares two AST trees using depth-first preorder walk and fuzzy hashing.
+ - Match simplified AST tree nodes and get function line matchings within each function bound.
 
 ### <span>obfDetect</span> <span>Aug 2021 -- Oct 2021</span>
 
 <https://github.com/mcdulltii/obfDetect>
 
- - Automatically detects obfuscated code and other state machines in binary samples
+ - Automatically detects obfuscated code and other state machines in binary samples.
  - IDA Scripting to perform heuristic calculations on function Abstract Syntax Trees (AST).
  - Detects function anomalies and obfuscated assembly code based on heuristic complexities.
 
@@ -100,21 +92,21 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 ### <span>AWS Academy Cloud Foundations</span>
 
- - Gives an overall understanding of cloud computing concepts, independent of specific technical roles
- - Provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support
+ - Gives an overall understanding of cloud computing concepts, independent of specific technical roles.
+ - Provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.
 
 ### <span>AWS Academy Cloud Architecting</span>
 
- - Covers the fundamentals of building IT infrastructure on AWS and helps students gain the skills they need to pursue the AWS Certified Solutions Architect – Associate certification
+ - Covers the fundamentals of building IT infrastructure on AWS and helps students gain the skills they need to pursue the AWS Certified Solutions Architect – Associate certification.
 
 ### <span>Advanced Malware Analysis Techniques by Kaspersky</span>
 
 <https://xtraining.kaspersky.com/courses/advanced-malware-analysis-techniques>
 
- - Analyze modern complicated code samples, from receiving the initial artifact, all the way to producing a technical description of the attacker’s TTPs with IOCs
- - Produce static decryptors for real-life scenarios and then continue with in-depth analysis of the malicious code
- - Analyze malicious documents that are typically used to deliver initial payloads and know how to extract them
- - Ensure damage assessment and incident response efforts are accurate and effective
+ - Analyze modern complicated code samples, from receiving the initial artifact, all the way to producing a technical description of the attacker’s TTPs with IOCs.
+ - Produce static decryptors for real-life scenarios and then continue with in-depth analysis of the malicious code.
+ - Analyze malicious documents that are typically used to deliver initial payloads and know how to extract them.
+ - Ensure damage assessment and incident response efforts are accurate and effective.
 
 ### <span>Targeted Malware Reverse Engineering by Kaspersky</span>
 
@@ -129,21 +121,21 @@ Having a curious mindset towards computer science, I always seek for new directi
 
 <https://xtraining.kaspersky.com/courses/reverse-engineering-101>
 
-- Gain the initial knowledge needed for malware analysis
-- Analyze executables generated by different compilers to be more familiar with "esoteric" executables
+- Gain the initial knowledge needed for malware analysis.
+- Analyze executables generated by different compilers to be more familiar with "esoteric" executables.
 
 ## Education
 
 ### <span>Singapore Institute of Technology and University of Glasgow</span> <span>2022 -- Present</span>
 
  - Undergraduate in Computing Science.
- - Actively seeking out connections and job opportunities to broaden my horizon
+ - Actively seeking out connections and job opportunities to broaden my horizon.
 
 ### <span>Singapore Institute of Technology</span> <span>2019 -- 2022</span>
 
  - Undergraduate in Information Security, as part of the Work-Study programme in the Cyber NSF Scheme.
  - Building on my computing knowledge in the varying fields of computer science, such as Information Security and Interactive Simulation.
- - Delved into the niche topics within computer science as part of Capture-The-Flag (CTF) teams both locally and overseas. Some of the niche topics that I have explored are the makings of malware and reverse engineering,
+ - Delved into the niche topics within computer science as part of Capture-The-Flag (CTF) teams both locally and overseas. Some of the niche topics that I have explored are the makings of malware and reverse engineering.
 
 ### <span>Anglo-Chinese Junior College</span> <span>2017 -- 2018</span>
 

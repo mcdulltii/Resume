@@ -1,7 +1,5 @@
 # Résumé
 
-![Resume](resume.png)
-
 ## Prerequisites
 
  - Python ≥ 3.6
